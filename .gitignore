@@ -3,6 +3,9 @@
 *.xlsx
 *.xls
 
+# Allow specific sample files
+!disease_features.xlsx
+
 # Python
 __pycache__/
 *.py[cod]
